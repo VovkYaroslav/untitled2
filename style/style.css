@@ -1,0 +1,57 @@
+body{
+    background: purple;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.box{
+    background: #00ffa0;
+
+    height: 700px;
+    width: 800px;
+
+    display: flow;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    color: #00ffa0;
+}
+.people{
+    /*background: blue;*/
+
+    height: 400px;
+    width: 800px;
+    margin: 80px 0 15px 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.xxx{
+    background: green;
+    color: red;
+
+    margin: 15px;
+    height: 350px;
+    width: 300px;
+
+    display: flow;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    font-size: 50px;
+}
+.second{
+    font-size: 20px;
+}
+img{
+    height: 100px;
+
+}
+.picture{
+    margin: 20px 0 10px 0;
+}
